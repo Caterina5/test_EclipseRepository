@@ -17,6 +17,8 @@ public class MyMath {
 				return false;
 			i++;
 		}
+		int y;
+		
 		return true;	
 	}
 
