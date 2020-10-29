@@ -16,14 +16,7 @@ public class MyMath {
 			if(n%i==0)
 				return false;
 			i++;
-<<<<<<< HEAD
 		}
-		
-		//aggiunta di una modifica
-		
-=======
-		}		
->>>>>>> refs/remotes/origin/master
 		return true;	
 	}
 
